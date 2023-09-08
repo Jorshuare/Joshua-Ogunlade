@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/laptop-with-books.jpeg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,22 +31,20 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Machine Learning Projects",
+    description: "These shows a few of my machine learning projects.",
+    url: "https://github.com/jorshuare/machine-learniing-projects",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My Blog",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is my blog where I write fascinating things about programming and my experience .",
+    url: "https://medium.com/@joshuaogunlade",
   },
   {
     title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    description: "This is a Google drive link that shows my experience and abilities .",
+    url: "https://drive.google.com/file/d/1kp93LT_DsVymR9YtQEVld7OV04H3ThgC/view?usp=sharing",
   },
   {
     title: "GitHub Codespaces and github.dev",

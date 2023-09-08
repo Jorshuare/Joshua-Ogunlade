@@ -10,33 +10,32 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/wood.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "wood background";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+  "I am a Machine Learning Engineer with a background in Electrical and Electronics Engineering, specialising in Telecommunications. My passion is crafting innovative solutions for real-world problems. I am actively participating in various competitions and hackathons, including the Zindi competition, to put my skills to the test and drive positive change.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Data Science",
+  "Data Visualization",
+  "Machine Learning Frameworks",
+  "Version Control",
+  "Data Preprocessing",
+  "Continuous Integration",
 ];
 
 /**
@@ -45,8 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
-
+  "My enthusiasm lies in leveraging technology to solve real-world problems. I am a strong believer in the power of collaboration and teamwork. I am a fast learner and I am always looking for opportunities to learn and grow. I am also a strong advocate for diversity and inclusion in the tech space.";
 const About = () => {
   return (
     <section className="padding" id="about">
