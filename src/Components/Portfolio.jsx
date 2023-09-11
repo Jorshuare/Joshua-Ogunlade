@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "Machine Learning Projects",
     description: "These shows a few of my machine learning projects.",
-    url: "https://github.com/jorshuare/machine-learniing-projects",
+    url: "https://github.com/Jorshuare/Machine-Learning-Projects",
   },
   {
     title: "My Blog",
