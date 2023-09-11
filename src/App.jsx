@@ -28,9 +28,9 @@ const siteProps = {
   title: "Machine Learning Engineer",
   email: "joshuaogunlade1@gmail.com",
   gitHub: "Jorshuare",
-  instagram: "",
-  linkedIn: "Joshua Ogunlade",
-  medium: "",
+  instagram: "itz_joshers",
+  linkedIn: "joshogunlade",
+  medium: "joshuaogunlade",
   twitter: "joshuaogunlade6",
   youTube: "",
 };
