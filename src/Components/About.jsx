@@ -24,8 +24,8 @@ const imageAltText = "wood background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am a Machine Learning Engineer with a background in Electrical and Electronics Engineering, specialising in Telecommunications. My passion is crafting innovative solutions for real-world problems. I am actively participating in various competitions and hackathons, including the Zindi competition, to put my skills to the test and drive positive change.";
-/**
+  "Hello, I am Joshua, a Machine Learning Engineer with a background in Electrical and Electronics Engineering, specialising in Telecommunications. I am passionate about solving real-world problems through innovation. I have been demonstrating my skills in competitions and hackathons, including the Zindi competition, where I drive positive change. I'm committed to pushing the boundaries of Machine Learning to make a meaningful impact."
+  /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
